@@ -1,1 +1,2 @@
-# primo-tabs
+# Primo Tabs
+Website code for primotabs.com
